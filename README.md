@@ -1,12 +1,13 @@
-# Holberton School - Networking Basics #0
+# Holberton School - Networking Basics
 
 This repository contains my solutions for the Holberton School Networking basics
-#0 project. It introduces the OSI model, network types, IP and MAC addresses,
-TCP and UDP, ports, and ICMP.
+#0 and #1 projects. The projects introduce network models, addresses, ports,
+localhost, and basic network troubleshooting tools.
 
 ## Directory
 
-- `basics_0` - answer files and Bash scripts for the networking basics tasks
+- `basics_0` - OSI model, network types, addresses, TCP/UDP, ports, and ICMP
+- `basics_1` - hosts file configuration, attached IPs, and port listening
 
 ## Topics
 
@@ -15,6 +16,7 @@ TCP and UDP, ports, and ICMP.
 - MAC and IP addresses
 - TCP and UDP
 - Network ports and ICMP
+- Localhost, the hosts file, and active network interfaces
 
 ## Requirements
 
