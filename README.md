@@ -8,6 +8,14 @@ TCP and UDP, ports, and ICMP.
 
 - `basics_0` - answer files and Bash scripts for the networking basics tasks
 
+## Topics
+
+- OSI model and network layers
+- LAN, WAN, and the Internet
+- MAC and IP addresses
+- TCP and UDP
+- Network ports and ICMP
+
 ## Requirements
 
 - Ubuntu 22.04 LTS
